@@ -6,6 +6,7 @@
         <artifactId>viricide</artifactId>
         <version>0.1-SNAPSHOT</version>
     </parent>
-    <artifactId>viricide-api</artifactId>
+    <artifactId>viricide-core</artifactId>
     <packaging>jar</packaging>
+    <name>viricide-core</name>
 </project>

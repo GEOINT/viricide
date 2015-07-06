@@ -12,6 +12,6 @@
     </properties>
     
     <modules>
-        <module>viricide-api</module>
+        <module>viricide-core</module>
     </modules>
 </project>
